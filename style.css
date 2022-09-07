@@ -425,8 +425,8 @@ footer{
         padding: 4px 4px;
     }
     .logo>img{
-        width: 60px;
-        height: 35px;
+        width: 32px;
+        height: 32px;
     }
     .nav-list>ul li{
         float: left;
@@ -781,7 +781,7 @@ footer{
         justify-content: center;
     }*/
     .div>.logos{
-        width: 70px;
+        width: 55px;
         height: 55px;
     }
     .div>.logos>img{
