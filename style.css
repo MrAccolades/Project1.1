@@ -373,14 +373,15 @@ footer{
     grid-template-columns: 1fr 1fr 1fr;
     align-content: center;
     justify-content: space-between;
-
 }
+
 .div>p{
     /*border: #ffff 1px solid;*/
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
+
 .div>.logos{
     width: 100px;
     height: 70px;
@@ -389,7 +390,7 @@ footer{
     width: 100%;
     height: 100%;
 }
-.fa {
+.social>a {
   padding: 20px;
   font-size: 30px;
   width: 50px;
@@ -401,7 +402,7 @@ footer{
   opacity: 0.7;
 }
 
-.fa-facebook {
+..social>.fa-facebook {
   background: #3B5998;
   color: white;
 }
